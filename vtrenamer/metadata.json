@@ -1,5 +1,0 @@
-{
-  "name": "VTRenamer",
-  "description": "Uma ferramenta inteligente que utiliza a IA do Gemini para extrair o número da viagem de arquivos PDF e renomeá-los automaticamente para facilitar a organização.",
-  "requestFramePermissions": []
-}
